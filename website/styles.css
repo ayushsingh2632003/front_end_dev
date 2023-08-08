@@ -1,0 +1,98 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+
+.title h1{
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    padding: auto;
+
+
+
+
+}
+
+.header{
+
+    background-color: black;
+    color: white;
+    text-align:center;
+
+
+}
+
+.header h1{
+
+    font-size: 30;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: green;
+    
+    
+}
+.header h2{
+    
+    margin: 0;
+    font-size: 250;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.header1{
+
+    width: 100%;
+    border-bottom: 5px solid #000;
+    padding: auto;
+    margin-top: 20;
+}
+
+
+
+
+.inline-image {
+    display: inline-block;
+    width: 150px; /* Set the width of the image */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle;
+    margin-left: 100px
+    
+    ; /* Adjust the margin as needed */
+}
+
+
+
+span img{
+    width: 250px;
+    height: 250px;
+    align-items: end;
+    justify-content: end;
+    float:right;
+
+    padding-right: 60px;
+    
+    padding-top: 3px;
+   
+
+
+}
+
+span small{
+    display: block;
+}
+
+dl{
+
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
